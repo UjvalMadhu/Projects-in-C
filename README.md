@@ -5,7 +5,7 @@
 ## Intro to C
 
 
-*C*  was orginally created by Dennis M. Ritchie for moving the kernal code from assembly language to a high level language and other applications in the UNIX operating system at Bell Labs in 1972. C succeeded the programming Language B (derived from BPCL systems programming Language) developed by Ken Thompson and Dennis Ritchie. A large number of the modern programming languages are influenced by C in terms of syntax formation.
+*C*  was orginally created by Dennis M. Ritchie for moving the kernal code from assembly language to a high level language and other applications in the UNIX operating system at Bell Labs in 1972. C succeeded the programming Language B (derived from BCPL systems programming Language) developed by Ken Thompson and Dennis Ritchie. A large number of the modern programming languages are influenced by C in terms of syntax formation.
 
 * C is widely used for systems programming in building operating systems and applications software for various computer architectures that range from Supercomputers and PLCs to   embedded systems. 
 * C is a very good mid level programming language, meaning it has sufficient features of a high level language and can also be easily complied to low level assembly language for almost all the architectures present. The ease of compiling makes C very portable and ideal for cross-platform programming, this also allows C to be used for making compilers , libraries and interpreters of other languages. 
