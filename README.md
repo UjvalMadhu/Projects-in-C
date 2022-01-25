@@ -24,6 +24,7 @@ To build and run C prgrams you need:
        $ gcc [File_Name].c
        $ ./a.out 
 The first line compiles the code and the second line produces the output.
+If you are using a different compiler, make sure to read the documentation regarding compiling and running the code.
 
 
 Motivation: This contains various C programs that are done for the purpose of learning the language especially for use in embedded systems programming. The code will be explained in a beginner friendly manner so that anyone can implement and learn them.
